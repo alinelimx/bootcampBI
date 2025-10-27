@@ -28,7 +28,8 @@ Desenvolver competências técnicas e analíticas para atuar na área de Busines
 - Computação em Nuvem
 - IA aplicada ao BI
 
-[![Skills](https://skillicons.dev/icons?i=python,mysql,github,vscode,powerbi)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,github,vscode)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" /> ![Tech Stack](https://skillicons.dev/icons?i=sqlite&theme=light&perline=15) 
+
 ---
 ### 💬 Soft Skills e Carreira
 🗣 Comunicação e Apresentação de Dados
