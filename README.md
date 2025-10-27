@@ -1,6 +1,6 @@
 # Business Intelligence — WoMakersCode + Instituto Localiza
 
-Repositório criado para reunir meus exercícios, atividades e projetos desenvolvidos durante o Bootcamp Business Intelligence (Turma 2025.2) da WoMakersCode em parceria com o Instituto Localiza ( https://womakerscode.org/bi-instituto-localiza )
+Repositório criado para reunir meus exercícios, atividades e projetos desenvolvidos durante o Bootcamp Business Intelligence (Turma 2025.2) da WoMakersCode em parceria com o Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/))
 
 Um programa de formação intensiva e gratuita voltado para mulheres na área de dados e tecnologia, com duração de 6.5 meses, mentorias de carreira e conexões reais com o mercado 🚀
 
